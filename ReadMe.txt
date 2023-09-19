@@ -3,3 +3,4 @@ It is a resume project in MVC architecture usnig Express, EJS, Bootstrap, Font-A
 Steps:--
 1.  Initialize the package.json and install required packages(express, ejs, nodemon)
 2.  Create required directories and files
+3.  Write basic code for running server for different routes using ejs view
