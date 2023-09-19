@@ -6,3 +6,4 @@ Steps:--
 3.  Write basic code for running server for different routes using ejs view
 4.  Include Bootstrap, Font-Awesome and Google Font and use them
 5.  Create sidebar and seperate common codes
+6.  Write main content for each page(Home, Services, Skills, Contact)
