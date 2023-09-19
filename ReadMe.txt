@@ -4,3 +4,4 @@ Steps:--
 1.  Initialize the package.json and install required packages(express, ejs, nodemon)
 2.  Create required directories and files
 3.  Write basic code for running server for different routes using ejs view
+4.  Include Bootstrap, Font-Awesome and Google Font and use them
